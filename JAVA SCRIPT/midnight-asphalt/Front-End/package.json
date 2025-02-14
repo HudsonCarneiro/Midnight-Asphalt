@@ -9,10 +9,16 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "typescript": "^5.7.3",
     "vite": "^6.1.0"
   },
   "dependencies": {
     "axios": "^1.7.9",
     "phaser": "^3.88.2"
-  }
+  },
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
